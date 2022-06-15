@@ -99,7 +99,7 @@ function estaEnRango(numero) {
      else 
        return false 
     
-}
+} 
 
 function esEntero(numero) {
   // Devuelve "true" si "numero" es un entero (int/integer)
